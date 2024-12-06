@@ -10,7 +10,7 @@ This project involves the exploration, preparation, analysis, and machine learni
 - **Sport**
 - **Tech**
 
-The main objective is to build and evaluate different machine learning models that can predict the category of a given news article based on its content. The project aims to demonstrate the application of natural language processing (NLP) and machine learning techniques to classify text data efficiently.
+The main objective is to build and evaluate different machine learning models that can predict the category of a given news article based on its content. 
 
 ## Dataset
 

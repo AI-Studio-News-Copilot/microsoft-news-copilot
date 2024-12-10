@@ -25,4 +25,4 @@ You can access and download the dataset from Kaggle:
 To run the project, you need to install the required Python libraries. You can install the necessary dependencies using the following command:
 
 ```bash
-pip install pandas matplotlib seaborn nltk gensim scikit-learn textblob
+pip install pandas matplotlib seaborn nltk gensim scikit-learn textblob transformers torch datasets
